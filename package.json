@@ -1,0 +1,23 @@
+{
+  "name": "react-zoom-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekhars-realm/react-zoom-clone.git"
+  },
+  "author": "shekhar bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekhars-realm/react-zoom-clone/issues"
+  },
+  "homepage": "https://github.com/shekhars-realm/react-zoom-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
